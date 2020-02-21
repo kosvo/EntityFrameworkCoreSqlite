@@ -15,5 +15,6 @@ Finish BulkInsert save blogs=00:00:35.5011213
 Count=200000	Time=00:00:35.5134963
 
 
-generic insertion 24 sec for insert and 9 for update 100k records
-buld insert 2.25 sec for 100k records insert
+#generic insertion 24 sec for insert and 9 for update 100k records
+
+#buld insert 2.25 sec for 100k records insert
